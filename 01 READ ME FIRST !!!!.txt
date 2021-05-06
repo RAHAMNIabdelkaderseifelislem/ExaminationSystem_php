@@ -1,0 +1,11 @@
+ONLINE EXAMINATION SYSTEM IN PHP
+
+**LOGIN DETAILS** 
+
+Email Id : moh@moh.com
+Password : 123456
+
+**ADMIN PANEL**
+
+Username : admin
+Password : 123
